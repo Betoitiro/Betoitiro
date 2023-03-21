@@ -10,6 +10,7 @@
   <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align = "center" alt="Beto-java" height ="30" width = "40" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpaulorievrs%2Fjava4noobs&psig=AOvVaw3OkmuDw6Udoo3Rqc3YoOJm&ust=1679525294010000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDf0raN7v0CFQAAAAAdAAAAABAE">
 </div>
 
 
