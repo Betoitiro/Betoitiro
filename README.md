@@ -12,7 +12,7 @@
   <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
+<a href = "mailto:jessic4neves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertoitiro&show_icons=true&theme=radical)
 
