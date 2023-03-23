@@ -7,17 +7,21 @@
  💻 - Atualmente sou estudante da Unisesp, cursando Sistemas para Internet (SI); 
 
 🎧 - No tempo livre, gosto de escutar musica e estudar um pouco sobre a area de front e de back;
- - tenho um breve conhecimento nessas linguagens e nesses duas liguagens de programação e nesses metodos de linguagem
+ - tenho um breve conhecimento nessas linguagens e nesses duas liguagens de programação e nesses metodos de linguagem:
+ - ### teconologias do dia em estudo
 
-- Sturying **[Java](https://www.java.com/pt-BR/)**
-- Sturying **[Python](https://www.python.org)**
-- Sturying **[JavaScript](https://js.org)**
-- Sturying **[Html](https://www.learn-html.org)**
-- Sturying **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+<div style= "display: inline_block"><br/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
+</div>
+
 
  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertoitiro&show_icons=true&theme=radical)
+![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=dark)
 
 <div> 
   <a href = "itirotrabalhos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
