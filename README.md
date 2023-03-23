@@ -7,8 +7,7 @@
  💻 - Atualmente sou estudante da Unisesp, cursando Sistemas para Internet (SI); 
 
 🎧 - No tempo livre, gosto de escutar musica e estudar um pouco sobre a area de front e de back;
- - tenho um breve conhecimento nessas linguagens e nesses duas liguagens de programação e nesses metodos de linguagem:
- - ### teconologias do dia em estudo
+### teconologias do dia em estudo
 
 <div style= "display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -22,6 +21,7 @@
 
  
 ![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betoitiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
   <a href = "itirotrabalhos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
