@@ -19,8 +19,6 @@
 
 
  
-![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitir&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betoitiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
   <a href = "itirotrabalhos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
