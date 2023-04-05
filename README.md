@@ -17,7 +17,8 @@
 
 </div>
 
-![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=dark)
+![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=dracula)
+
 
  
 
