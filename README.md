@@ -23,7 +23,25 @@
 
 </div>
 
- 
+<div>
+
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Betoitiro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+ </div>
+
+   
+   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betoitiro&theme=gotham)
+
+
+<div style="display:inline_block"><br/>
+
+</div>
+
+
 
 <div> 
   <a href = "itirotrabalhos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -34,4 +52,13 @@
 </br>
 
 <img width=110% src="https://capsule-render.vercel.app/api?type=waving&color=#FF2400x&height=120&section=footer"/>
+
+
+
+
+</div>
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
