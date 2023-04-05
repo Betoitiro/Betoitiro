@@ -34,7 +34,7 @@
  </div>
 
    
-   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betoitiro&theme=gotham)
+   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betoitiro&theme=dracula)
 
 
 <div style="display:inline_block"><br/>
