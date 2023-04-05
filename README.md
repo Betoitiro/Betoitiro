@@ -19,7 +19,7 @@
 
 
  
-![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=dark)
+![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitir&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betoitiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
