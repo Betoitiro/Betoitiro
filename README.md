@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=darksize=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+Humberto+Itiró!;I'm+17+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ruby=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+Humberto+Itiró!;I'm+17+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
  💻 - Atualmente sou estudante da Unisesp, cursando Sistemas para Internet (SI); 
 
@@ -34,7 +34,7 @@
  </div>
 
    
-   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betoitiro&theme=dracula)
+   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betoitiro&theme=ruby)
 
 
 <div style="display:inline_block"><br/>
