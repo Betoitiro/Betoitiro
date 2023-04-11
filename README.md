@@ -1,6 +1,6 @@
-<img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=#FF2400&height=120&section=header"/>
+<img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=onedark&height=120&section=header"/>
 
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=onedark&height=3)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ruby=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+Humberto+Itiró!;I'm+17+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
@@ -51,14 +51,13 @@
 
 </br>
 
-<img width=110% src="https://capsule-render.vercel.app/api?type=waving&color=#FF2400x&height=120&section=footer"/>
+<img width=110% src="https://capsule-render.vercel.app/api?type=waving&color=onedark&height=120&section=footer"/>
 
 
 
 
 </div>
 
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+   ![header](https://capsule-render.vercel.app/api?type=rect&color=onedark&height=3)
 </p>
 
