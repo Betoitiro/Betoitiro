@@ -17,9 +17,9 @@
 
 </div>
 
-![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=dracula)
+![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=dark)
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betoitiro&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betoitiro&layout=compact&langs_count=16&theme=dark"/>
 
 </div>
 
@@ -27,14 +27,14 @@
 
 
  <p height="180em">
-  <img src="https://github-profile-trophy.vercel.app/?username=Betoitiro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Betoitiro&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
  </div>
 
    
-   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betoitiro&theme=ruby)
+   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betoitiro&theme=dark)
 
 
 <div style="display:inline_block"><br/>
@@ -51,13 +51,13 @@
 
 </br>
 
-<img width=110% src="https://capsule-render.vercel.app/api?type=waving&color=onedark&height=120&section=footer"/>
+<img width=110% src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=120&section=footer"/>
 
 
 
 
 </div>
 
-   ![header](https://capsule-render.vercel.app/api?type=rect&color=onedark&height=3)
+   ![header](https://capsule-render.vercel.app/api?type=rect&color=dark&height=3)
 </p>
 
