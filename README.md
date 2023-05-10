@@ -17,21 +17,16 @@
 
 </div>
 
-![Humbertoitiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=dark)
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betoitiro&layout=compact&langs_count=16&theme=dark"/>
-
+<div align="center">  
+  <a href="https://github.com/Betoitiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Betoitiro&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betoitiro&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
-<div>
 
-
- <p height="180em">
-  <img src="https://github-profile-trophy.vercel.app/?username=Betoitiro&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Betoitiro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
- </div>
 
    
    ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betoitiro&theme=dark)
