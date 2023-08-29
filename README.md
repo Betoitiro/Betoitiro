@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=rect&color=onedark&height=3)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ruby=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+Humberto+Itiró!;I'm+17+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ruby=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+Humberto+Itiró!;I'm+18+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
  💻 - Atualmente sou estudante da Unisesp, cursando Sistemas para Internet (SI); 
 
